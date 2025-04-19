@@ -6,8 +6,8 @@ Este repositorio contiene la documentación técnica y funcional de las PoC desa
 
 - docs/ - Documentación por PoC
 - diagrams/ - Diagramas arquitectónicos y de flujo
-- 	emplates/ - Plantillas reutilizables para nuevas funciones
-- eports/ - Informes ejecutivos en formato Word o PDF
+- templates/ - Plantillas reutilizables para nuevas funciones
+- reports/ - Informes ejecutivos en formato Word o PDF
 
 ## PoC activas
 
